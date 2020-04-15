@@ -83,7 +83,7 @@
 
 .frame {
     background: #e0e0de;
-    height: 450px;
+    height: 100vh;
     /* overflow-y: auto; */
     padding: 0;
 }
